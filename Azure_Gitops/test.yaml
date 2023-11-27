@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: test
-        image: subhashchandra369/testnginx:v2
+        image: subhashchandra369/azureargo:1.0
         ports:
         - containerPort: 80
